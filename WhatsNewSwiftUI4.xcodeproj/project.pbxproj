@@ -8,17 +8,47 @@
 
 /* Begin PBXBuildFile section */
 		304EDF39285095EB00F96EEF /* WhatsNewSwiftUI4App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EDF38285095EB00F96EEF /* WhatsNewSwiftUI4App.swift */; };
-		304EDF3B285095EB00F96EEF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EDF3A285095EB00F96EEF /* ContentView.swift */; };
+		304EDF3B285095EB00F96EEF /* SwiftCharts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EDF3A285095EB00F96EEF /* SwiftCharts.swift */; };
 		304EDF3D285095ED00F96EEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 304EDF3C285095ED00F96EEF /* Assets.xcassets */; };
 		304EDF40285095ED00F96EEF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 304EDF3F285095ED00F96EEF /* Preview Assets.xcassets */; };
+		304EDF472850A31800F96EEF /* PresentationDetents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EDF462850A31800F96EEF /* PresentationDetents.swift */; };
+		304EDF492850A4EC00F96EEF /* ShareLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EDF482850A4EC00F96EEF /* ShareLink.swift */; };
+		304EDF4B2850A8C700F96EEF /* ImageRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EDF4A2850A8C700F96EEF /* ImageRenderer.swift */; };
+		304EDF4D2850ABF500F96EEF /* FitsThatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EDF4C2850ABF500F96EEF /* FitsThatView.swift */; };
+		309725B72851356F0004480B /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725B62851356F0004480B /* GridView.swift */; };
+		309725B9285138480004480B /* CustomLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725B8285138480004480B /* CustomLayout.swift */; };
+		309725BD28513B300004480B /* NavigationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725BC28513B300004480B /* NavigationStack.swift */; };
+		309725C128513E860004480B /* NavigationSplit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725C028513E860004480B /* NavigationSplit.swift */; };
+		309725C3285147090004480B /* iPadOSTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725C2285147090004480B /* iPadOSTable.swift */; };
+		309725C5285148FD0004480B /* GaugeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725C4285148FD0004480B /* GaugeView.swift */; };
+		309725C728514AD20004480B /* TapGestureLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725C628514AD20004480B /* TapGestureLocation.swift */; };
+		309725C928514B860004480B /* ScrollViewUpdates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725C828514B860004480B /* ScrollViewUpdates.swift */; };
+		309725CB28514D060004480B /* MultipleDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725CA28514D060004480B /* MultipleDatePicker.swift */; };
+		309725CD28514E0F0004480B /* ShadowUpdates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725CC28514E0F0004480B /* ShadowUpdates.swift */; };
+		309725CF28515A800004480B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309725CE28515A800004480B /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		304EDF35285095EB00F96EEF /* WhatsNewSwiftUI4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhatsNewSwiftUI4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		304EDF38285095EB00F96EEF /* WhatsNewSwiftUI4App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsNewSwiftUI4App.swift; sourceTree = "<group>"; };
-		304EDF3A285095EB00F96EEF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		304EDF3A285095EB00F96EEF /* SwiftCharts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCharts.swift; sourceTree = "<group>"; };
 		304EDF3C285095ED00F96EEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		304EDF3F285095ED00F96EEF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		304EDF462850A31800F96EEF /* PresentationDetents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationDetents.swift; sourceTree = "<group>"; };
+		304EDF482850A4EC00F96EEF /* ShareLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLink.swift; sourceTree = "<group>"; };
+		304EDF4A2850A8C700F96EEF /* ImageRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageRenderer.swift; sourceTree = "<group>"; };
+		304EDF4C2850ABF500F96EEF /* FitsThatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitsThatView.swift; sourceTree = "<group>"; };
+		309725B62851356F0004480B /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
+		309725B8285138480004480B /* CustomLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLayout.swift; sourceTree = "<group>"; };
+		309725BC28513B300004480B /* NavigationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStack.swift; sourceTree = "<group>"; };
+		309725C028513E860004480B /* NavigationSplit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplit.swift; sourceTree = "<group>"; };
+		309725C2285147090004480B /* iPadOSTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPadOSTable.swift; sourceTree = "<group>"; };
+		309725C4285148FD0004480B /* GaugeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GaugeView.swift; sourceTree = "<group>"; };
+		309725C628514AD20004480B /* TapGestureLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureLocation.swift; sourceTree = "<group>"; };
+		309725C828514B860004480B /* ScrollViewUpdates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewUpdates.swift; sourceTree = "<group>"; };
+		309725CA28514D060004480B /* MultipleDatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleDatePicker.swift; sourceTree = "<group>"; };
+		309725CC28514E0F0004480B /* ShadowUpdates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowUpdates.swift; sourceTree = "<group>"; };
+		309725CE28515A800004480B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +82,22 @@
 			isa = PBXGroup;
 			children = (
 				304EDF38285095EB00F96EEF /* WhatsNewSwiftUI4App.swift */,
-				304EDF3A285095EB00F96EEF /* ContentView.swift */,
+				309725CE28515A800004480B /* ContentView.swift */,
+				304EDF3A285095EB00F96EEF /* SwiftCharts.swift */,
+				304EDF462850A31800F96EEF /* PresentationDetents.swift */,
+				304EDF482850A4EC00F96EEF /* ShareLink.swift */,
+				304EDF4A2850A8C700F96EEF /* ImageRenderer.swift */,
+				304EDF4C2850ABF500F96EEF /* FitsThatView.swift */,
+				309725B62851356F0004480B /* GridView.swift */,
+				309725B8285138480004480B /* CustomLayout.swift */,
+				309725BC28513B300004480B /* NavigationStack.swift */,
+				309725C028513E860004480B /* NavigationSplit.swift */,
+				309725C2285147090004480B /* iPadOSTable.swift */,
+				309725C4285148FD0004480B /* GaugeView.swift */,
+				309725CA28514D060004480B /* MultipleDatePicker.swift */,
+				309725C628514AD20004480B /* TapGestureLocation.swift */,
+				309725CC28514E0F0004480B /* ShadowUpdates.swift */,
+				309725C828514B860004480B /* ScrollViewUpdates.swift */,
 				304EDF3C285095ED00F96EEF /* Assets.xcassets */,
 				304EDF3E285095ED00F96EEF /* Preview Content */,
 			);
@@ -137,8 +182,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				304EDF3B285095EB00F96EEF /* ContentView.swift in Sources */,
+				304EDF3B285095EB00F96EEF /* SwiftCharts.swift in Sources */,
 				304EDF39285095EB00F96EEF /* WhatsNewSwiftUI4App.swift in Sources */,
+				309725BD28513B300004480B /* NavigationStack.swift in Sources */,
+				309725CB28514D060004480B /* MultipleDatePicker.swift in Sources */,
+				309725C728514AD20004480B /* TapGestureLocation.swift in Sources */,
+				304EDF472850A31800F96EEF /* PresentationDetents.swift in Sources */,
+				309725B72851356F0004480B /* GridView.swift in Sources */,
+				309725CF28515A800004480B /* ContentView.swift in Sources */,
+				309725C128513E860004480B /* NavigationSplit.swift in Sources */,
+				304EDF4D2850ABF500F96EEF /* FitsThatView.swift in Sources */,
+				304EDF492850A4EC00F96EEF /* ShareLink.swift in Sources */,
+				309725C5285148FD0004480B /* GaugeView.swift in Sources */,
+				309725B9285138480004480B /* CustomLayout.swift in Sources */,
+				309725C3285147090004480B /* iPadOSTable.swift in Sources */,
+				309725C928514B860004480B /* ScrollViewUpdates.swift in Sources */,
+				304EDF4B2850A8C700F96EEF /* ImageRenderer.swift in Sources */,
+				309725CD28514E0F0004480B /* ShadowUpdates.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
